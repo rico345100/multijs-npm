@@ -1,0 +1,17 @@
+{
+  "name": "multijs",
+  "version": "1.0.0",
+  "description": "Multi.js is cross browsing JavaScript multithread library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Multithread",
+    "webworker",
+    "worker",
+    "JavaScript"
+  ],
+  "author": ".modernator",
+  "license": "MIT"
+}
